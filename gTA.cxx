@@ -910,7 +910,7 @@ int main(int argc, char *argv[])
         std::map<std::string, int> const regional;
         std::map<std::string, int> const worldly;
         std::map<std::string, int> const Multiversal;
-
+/*
         std::random_device countMoney;
         std::mt19937 generator(countMoney());
 
@@ -945,7 +945,7 @@ int main(int argc, char *argv[])
                           << "Your cash amount is $" << money_cash << std::endl
                           << "Your stock change is %" << money_stock_change << std::endl
                           << std::endl;
-
+*/
         // Full list of standard bounty targets
         std::vector<BountyTarget> allTargets = {
                 {"Tommy Lim", "Standard", 35000, "Last seen near Downtown Vinewood"},
