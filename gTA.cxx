@@ -1047,7 +1047,8 @@ displayTarget(todayMW);
         // Print the answer
         std::cout << "Heat Level:\n"
                           << heat[heatIndex] << std::endl;
-        std::cout<<"  --- Player Aputure ---\n\n"
+  
+        std::cout <<"  --- Player Aputure ---\n\n"
         "           *****           \n"
         "        ***********        \n"
         "      ***************                       @#$%^\n"
