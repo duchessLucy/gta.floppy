@@ -893,7 +893,8 @@ int main(int argc, char *argv[])
                 void noStartingVehicle();
 
         void Bills(bool noBillsEver, bool billions, bool profitInstead, float profit);
-        void Jealousy();
+      //  void Jealousy();
+  void noPersonalizedUnits();
         void NoPlayerUnit();
 
         std::map<std::string, int> const map, Local;
@@ -1046,7 +1047,19 @@ displayTarget(todayMW);
         // Print the answer
         std::cout << "Heat Level:\n"
                           << heat[heatIndex] << std::endl;
-
+        std::cout<<"  --- Player Aputure ---\n\n"
+        "           *****           \n"
+        "        ***********        \n"
+        "      ***************                       @#$%^\n"
+        "     *****************                      #$%^&\n"
+        "    ****    ***    ****                     $%^&*\n"
+        "   ****    * * *    ****                    %^&*(\n"
+        "   ****    * * *    ****                    ^&*()\n"
+        "    ****    ***    ****    \n"
+        "     *****************     \n"
+        "      ***************      \n"
+        "        ***********        \n"
+        "           *****           \n";
         std::cout << std::endl
                           << "🟢 System Running!! 🟢" << std::endl;
 
