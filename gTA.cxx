@@ -888,7 +888,7 @@ int main(int argc, char *argv[])
         std::cout << "🍎iFruit\n"
                           << std::endl
                           << "GTA: Grand Theft Auto\n⭐️ By Rockstar Games ⭐️⭐️⭐️⭐️⭐️" << std::endl
-                          << "\nReady Player One!" << std::endl
+                          << "\nReady Player One!" << std::endl;
                 void NoPlayerUnit();
                 void noStartingVehicle();
 
