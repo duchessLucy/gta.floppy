@@ -898,7 +898,7 @@ int main(int argc, char *argv[])
         void NoPlayerUnit();
 
         std::map<std::string, int> const map, Local;
-        std::map<std::string, int> const map, Babylon;
+        std::map<std::string, int> const Babylon;
         std::map<std::string, int> const Toronto; //for Canada
         std::map<std::string, int> const Leonida;
         std::map<std::string, int> const LosSantos;
